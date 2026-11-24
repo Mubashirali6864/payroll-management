@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Mohsin & Co Payroll & Attendance System Architecture",
+    "output": "architecture.html",
+    "quality_profile": "showcase",
+    "views": [
+      { "id": "full-flow", "label": "Full System Flow", "focus": ["client", "api", "auth", "db", "biometric"], "note": "Primary user requests, terminal integration, and persistent SQLite database." },
+      { "id": "payroll-engine", "label": "Payroll & Calculation Engine", "focus": ["api", "payroll_engine", "db"], "note": "Attendance aggregation, explicit absence preservation, off-day tracking, and daily proration." }
+    ]
+  },
+  "components": [
+    { "id": "client", "type": "frontend", "label": "React 19 SPA", "sublabel": "Vite + TailwindCSS", "pos": [40, 260], "size": [140, 64], "tag": "Port 3000" },
+    { "id": "auth", "type": "security", "label": "JWT & Password Guard", "sublabel": "SuperAdmin Gate", "pos": [300, 90], "size": [160, 64], "tag": "Bcrypt Hash" },
+    { "id": "api", "type": "backend", "label": "Express API Server", "sublabel": "Node.js (tsx / esbuild)", "pos": [300, 260], "size": [160, 64] },
+    { "id": "payroll_engine", "type": "backend", "label": "Payroll Engine", "sublabel": "Day-wise & Off-day logic", "pos": [600, 260], "size": [170, 64] },
+    { "id": "db", "type": "database", "label": "SQLite (sql.js)", "sublabel": "payroll.sqlite", "pos": [900, 260], "size": [150, 64], "tag": "ACID Storage" },
+    { "id": "biometric", "type": "external", "label": "Biometric Terminal", "sublabel": "TCP/IP & Realtime Push", "pos": [300, 430], "size": [160, 64], "tag": "Hardware Device" }
+  ],
+  "boundaries": [
+    { "kind": "region", "label": "Mohsin & Co Payroll Management Server", "wraps": ["auth", "api", "payroll_engine", "db"] }
+  ],
+  "connections": [
+    { "id": "client-to-api", "from": "client", "to": "api", "label": "REST API / JWT", "variant": "emphasis" },
+    { "id": "auth-check", "from": "api", "to": "auth", "label": "Auth Gate", "variant": "security" },
+    { "id": "api-to-engine", "from": "api", "to": "payroll_engine", "label": "Calculate Month" },
+    { "id": "engine-to-db", "from": "payroll_engine", "to": "db", "label": "Persist Payroll", "variant": "emphasis" },
+    { "id": "biometric-to-api", "from": "biometric", "to": "api", "label": "Punches", "variant": "dashed" }
+  ],
+  "cards": [
+    { "dot": "cyan", "title": "Client & Terminal", "items": ["React 19 SPA with live Attendance, Employee, and Payroll Management", "Inter Google Font typography standard applied across all UI and print views", "A5 Half-A4 printable documents (148mm × 210mm) at 300 DPI print quality"] },
+    { "dot": "emerald", "title": "Engine & Business Rules", "items": ["Day-wise monthly proration with integer daily rate: perDayRate = Math.round(base_salary / daysInMonth)", "Daily Come, Daily Pay: daily workers paid per shift with 1-day rate vouchers", "Explicit absence preservation ensures recorded absences are never reduced"] },
+    { "dot": "rose", "title": "Security & Governance", "items": ["Super-admin password gate required for employee reactivation", "Cascade deletion protection converts hard-deletes to soft-deletes"] }
+  ]
+}

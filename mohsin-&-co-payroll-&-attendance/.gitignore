@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.sqlite
+*.sqlite-journal
+data/*.sqlite*
+data/backups/
+data/documents/
+data/profile_pictures/
+data/company/

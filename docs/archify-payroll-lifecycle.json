@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Payroll Calculation & Attendance Lifecycle",
+    "output": "payroll-lifecycle.html",
+    "animation": "trace",
+    "quality_profile": "showcase",
+    "views": [
+      { "id": "attendance-to-payout", "label": "Attendance to Payout", "focus": ["punch", "raw_log", "aggregate", "payable_calc", "net_salary"], "note": "Follow biometric terminal logs through attendance aggregation into finalized monthly net payout." },
+      { "id": "absence-preservation", "label": "Absence & Off-Day Engine", "focus": ["aggregate", "absence_check", "payable_calc"], "note": "Preserve explicit absences and calculate accurate weekly offs before salary proration." }
+    ]
+  },
+  "lanes": [
+    { "id": "terminal", "label": "Biometric & Entry" },
+    { "id": "attendance_lane", "label": "Attendance Records" },
+    { "id": "payroll_lane", "label": "Payroll Engine" },
+    { "id": "finance_lane", "label": "Disbursement & UI" }
+  ],
+  "phases": [
+    { "id": "capture", "label": "Punch Capture", "fromCol": 0, "toCol": 1 },
+    { "id": "evaluate", "label": "Aggregation & Rules", "fromCol": 2, "toCol": 3, "variant": "emphasis" },
+    { "id": "finalize", "label": "Proration & Payout", "fromCol": 4, "toCol": 5, "variant": "dashed" }
+  ],
+  "mainPath": ["punch", "raw_log", "aggregate", "absence_check", "payable_calc", "net_salary"],
+  "nodes": [
+    { "id": "punch", "lane": "terminal", "col": 0, "type": "frontend", "label": "Punch In/Out", "sublabel": "Terminal Device" },
+    { "id": "raw_log", "lane": "terminal", "col": 1, "type": "backend", "label": "Debounce Log", "sublabel": "Validate Punch", "tag": "Biometric" },
+    { "id": "aggregate", "lane": "attendance_lane", "col": 2, "type": "backend", "label": "Classify Day", "sublabel": "Present / HalfDay" },
+    { "id": "absence_check", "lane": "attendance_lane", "col": 3, "type": "security", "label": "Absence Audit", "sublabel": "Preserve 3A count", "tag": "Authoritative" },
+    { "id": "payable_calc", "lane": "payroll_lane", "col": 4, "type": "backend", "label": "Payable Days", "sublabel": "Present + Offs", "tag": "13P + 3Off" },
+    { "id": "net_salary", "lane": "finance_lane", "col": 5, "type": "frontend", "label": "Net Salary", "sublabel": "PKR 16,000", "tag": "Finalized" }
+  ],
+  "edges": [
+    { "from": "punch", "to": "raw_log" },
+    { "from": "raw_log", "to": "aggregate", "variant": "emphasis", "route": "drop", "fromSide": "bottom", "toSide": "top" },
+    { "from": "aggregate", "to": "absence_check" },
+    { "from": "absence_check", "to": "payable_calc", "variant": "emphasis", "route": "drop", "fromSide": "bottom", "toSide": "top" },
+    { "from": "payable_calc", "to": "net_salary", "variant": "emphasis", "route": "drop", "fromSide": "bottom", "toSide": "top" }
+  ],
+  "cards": [
+    { "dot": "emerald", "title": "Authoritative Attendance", "items": ["Explicit absent days recorded in attendance logs are never reduced or masked by calendar math", "Biometric terminal punches are debounced to prevent duplicate punches"] },
+    { "dot": "cyan", "title": "Transparent Proration", "items": ["Monthly salary employees earn day-wise: payableDays = daysPresent + daysOff + daysLeave", "Integer daily rate: perDayRate = Math.round(base_salary / daysInMonth)", "Absence deduction strictly evaluates to perDayRate * daysAbsent (e.g. 968 * 2 = 1936)"] },
+    { "dot": "amber", "title": "Daily Wage Clearance", "items": ["Daily Come, Daily Pay: workers cleared daily on shift completion", "Daily voucher prints today's daily wage rate rather than accumulated monthly total", "Monthly payroll acts as audit ledger with zero outstanding balance"] },
+    { "dot": "indigo", "title": "A5 & Inter Standards", "items": ["Universal Inter Google Font applied across web UI, print previews, and PDFs", "Official A5 Half-A4 dimensions (148mm × 210mm) at 300 DPI print / 72 DPI screen"] },
+    { "dot": "rose", "title": "Audit & Security", "items": ["Soft-delete preserves history for active audit trails", "Reactivating resigned workers requires super-admin password gate"] }
+  ]
+}

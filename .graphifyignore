@@ -1,0 +1,7 @@
+node_modules/
+dist/
+vendor/
+*.generated.py
+.gemini/
+.claude/
+graphify-out/

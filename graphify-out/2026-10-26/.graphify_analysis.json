@@ -1,0 +1,602 @@
+{
+  "communities": {
+    "0": [
+      "mohsin_co_payroll_attendance_src_app",
+      "mohsin_co_payroll_attendance_src_app_app",
+      "mohsin_co_payroll_attendance_src_app_appcontent",
+      "mohsin_co_payroll_attendance_src_app_mainapp",
+      "mohsin_co_payroll_attendance_src_auth_authcontext",
+      "mohsin_co_payroll_attendance_src_auth_authcontext_authcontext",
+      "mohsin_co_payroll_attendance_src_auth_authcontext_authcontexttype",
+      "mohsin_co_payroll_attendance_src_auth_authcontext_authfetch",
+      "mohsin_co_payroll_attendance_src_auth_authcontext_authprovider",
+      "mohsin_co_payroll_attendance_src_auth_authcontext_useauth",
+      "mohsin_co_payroll_attendance_src_components_attendanceview",
+      "mohsin_co_payroll_attendance_src_components_attendanceview_attendanceview",
+      "mohsin_co_payroll_attendance_src_components_attendanceview_attendanceviewprops",
+      "mohsin_co_payroll_attendance_src_components_dashboardview",
+      "mohsin_co_payroll_attendance_src_components_dashboardview_dashboardview",
+      "mohsin_co_payroll_attendance_src_components_dashboardview_dashboardviewprops",
+      "mohsin_co_payroll_attendance_src_components_employeedetailmodal",
+      "mohsin_co_payroll_attendance_src_components_employeedetailmodal_employeedetailmodal",
+      "mohsin_co_payroll_attendance_src_components_employeedetailmodal_employeedetailmodalprops",
+      "mohsin_co_payroll_attendance_src_components_employeemanagementview",
+      "mohsin_co_payroll_attendance_src_components_employeemanagementview_currentmonthbounds",
+      "mohsin_co_payroll_attendance_src_components_employeemanagementview_employeemanagementview",
+      "mohsin_co_payroll_attendance_src_components_employeemanagementview_employeemanagementviewprops",
+      "mohsin_co_payroll_attendance_src_components_loginpage",
+      "mohsin_co_payroll_attendance_src_components_loginpage_loginpage",
+      "mohsin_co_payroll_attendance_src_components_navbar",
+      "mohsin_co_payroll_attendance_src_components_navbar_navbar",
+      "mohsin_co_payroll_attendance_src_components_navbar_navbarprops",
+      "mohsin_co_payroll_attendance_src_components_payrollview",
+      "mohsin_co_payroll_attendance_src_components_payrollview_payrollview",
+      "mohsin_co_payroll_attendance_src_components_payrollview_payrollviewprops",
+      "mohsin_co_payroll_attendance_src_components_reportsview",
+      "mohsin_co_payroll_attendance_src_components_reportsview_reportsview",
+      "mohsin_co_payroll_attendance_src_components_reportsview_reportsviewprops",
+      "mohsin_co_payroll_attendance_src_components_settingsview",
+      "mohsin_co_payroll_attendance_src_components_settingsview_modules",
+      "mohsin_co_payroll_attendance_src_components_settingsview_settingsview",
+      "mohsin_co_payroll_attendance_src_components_settingsview_settingsviewprops",
+      "mohsin_co_payroll_attendance_src_components_sidebar",
+      "mohsin_co_payroll_attendance_src_components_sidebar_navtab",
+      "mohsin_co_payroll_attendance_src_components_sidebar_sidebar",
+      "mohsin_co_payroll_attendance_src_components_sidebar_sidebarprops",
+      "mohsin_co_payroll_attendance_src_components_statuschip",
+      "mohsin_co_payroll_attendance_src_components_statuschip_statuschip",
+      "mohsin_co_payroll_attendance_src_components_statuschip_statuschipprops",
+      "mohsin_co_payroll_attendance_src_components_statuschip_statusvariant",
+      "mohsin_co_payroll_attendance_src_main",
+      "mohsin_co_payroll_attendance_src_types",
+      "mohsin_co_payroll_attendance_src_types_attendancerecord",
+      "mohsin_co_payroll_attendance_src_types_attendancestatus",
+      "mohsin_co_payroll_attendance_src_types_auditlog",
+      "mohsin_co_payroll_attendance_src_types_biometricdevice",
+      "mohsin_co_payroll_attendance_src_types_companysettings",
+      "mohsin_co_payroll_attendance_src_types_dashboardmetrics",
+      "mohsin_co_payroll_attendance_src_types_employee",
+      "mohsin_co_payroll_attendance_src_types_employeedocument",
+      "mohsin_co_payroll_attendance_src_types_employeestatus",
+      "mohsin_co_payroll_attendance_src_types_employmenttype",
+      "mohsin_co_payroll_attendance_src_types_payrolladjustment",
+      "mohsin_co_payroll_attendance_src_types_payrollrecord",
+      "mohsin_co_payroll_attendance_src_types_shiftrule",
+      "mohsin_co_payroll_attendance_src_types_systemuser",
+      "mohsin_co_payroll_attendance_src_types_user",
+      "mohsin_co_payroll_attendance_src_types_userrole",
+      "mohsin_co_payroll_attendance_src_utils_printutils",
+      "mohsin_co_payroll_attendance_src_utils_printutils_escapehtml",
+      "mohsin_co_payroll_attendance_src_utils_printutils_printformatteddocument",
+      "mohsin_co_payroll_attendance_src_utils_printutils_sanitizehtml",
+      "ref_lucide_react",
+      "ref_react"
+    ],
+    "1": [
+      "mohsin_co_payroll_attendance_build",
+      "mohsin_co_payroll_attendance_build_buildapp",
+      "mohsin_co_payroll_attendance_package",
+      "mohsin_co_payroll_attendance_package_main",
+      "mohsin_co_payroll_attendance_package_name",
+      "mohsin_co_payroll_attendance_package_private",
+      "mohsin_co_payroll_attendance_package_scripts",
+      "mohsin_co_payroll_attendance_package_scripts_build",
+      "mohsin_co_payroll_attendance_package_scripts_clean",
+      "mohsin_co_payroll_attendance_package_scripts_dev",
+      "mohsin_co_payroll_attendance_package_scripts_lint",
+      "mohsin_co_payroll_attendance_package_scripts_postinstall",
+      "mohsin_co_payroll_attendance_package_scripts_preview",
+      "mohsin_co_payroll_attendance_package_scripts_start",
+      "mohsin_co_payroll_attendance_package_type",
+      "mohsin_co_payroll_attendance_package_version",
+      "mohsin_co_payroll_attendance_vite_config",
+      "ref_autoprefixer",
+      "ref_cors",
+      "ref_dotenv",
+      "ref_esbuild",
+      "ref_express_rate_limit",
+      "ref_google_genai",
+      "ref_helmet",
+      "ref_jsonwebtoken",
+      "ref_motion",
+      "ref_multer",
+      "ref_react_dom",
+      "ref_sql_js",
+      "ref_tailwindcss",
+      "ref_tailwindcss_vite",
+      "ref_tsx",
+      "ref_types_bcryptjs",
+      "ref_types_cors",
+      "ref_types_express",
+      "ref_types_jsonwebtoken",
+      "ref_types_multer",
+      "ref_types_sql_js",
+      "ref_typescript",
+      "ref_vite",
+      "ref_vitejs_plugin_react",
+      "ref_xlsx_js_style",
+      "temp_zip_extract_mohsin_co_payroll_attendance_build",
+      "temp_zip_extract_mohsin_co_payroll_attendance_build_buildapp",
+      "tests_rate_limit_ux_verification",
+      "tests_rate_limit_ux_verification_jwt",
+      "tests_rate_limit_ux_verification_require",
+      "tests_rate_limit_ux_verification_runtests"
+    ],
+    "2": [
+      "mohsin_co_payroll_attendance_server",
+      "mohsin_co_payroll_attendance_server_startserver",
+      "mohsin_co_payroll_attendance_server_startserver_calculatehoursworked",
+      "mohsin_co_payroll_attendance_server_startserver_calculatepayrollformonth",
+      "mohsin_co_payroll_attendance_server_startserver_processbiometricpunch",
+      "mohsin_co_payroll_attendance_src_auth",
+      "mohsin_co_payroll_attendance_src_auth_authmiddleware",
+      "mohsin_co_payroll_attendance_src_auth_generatetoken",
+      "mohsin_co_payroll_attendance_src_auth_getjwtsecret",
+      "mohsin_co_payroll_attendance_src_auth_hashpassword",
+      "mohsin_co_payroll_attendance_src_auth_jwtpayload",
+      "mohsin_co_payroll_attendance_src_auth_optionalauth",
+      "mohsin_co_payroll_attendance_src_auth_requirepermission",
+      "mohsin_co_payroll_attendance_src_auth_requirerole",
+      "mohsin_co_payroll_attendance_src_auth_verifypassword",
+      "mohsin_co_payroll_attendance_src_auth_verifytoken",
+      "mohsin_co_payroll_attendance_src_db_database",
+      "mohsin_co_payroll_attendance_src_db_database_data_dir",
+      "mohsin_co_payroll_attendance_src_db_database_db_path",
+      "mohsin_co_payroll_attendance_src_db_database_getdatabase",
+      "mohsin_co_payroll_attendance_src_db_database_initschemaandseed",
+      "mohsin_co_payroll_attendance_src_db_database_queryall",
+      "mohsin_co_payroll_attendance_src_db_database_queryone",
+      "mohsin_co_payroll_attendance_src_db_database_runexec",
+      "mohsin_co_payroll_attendance_src_db_database_savedatabase",
+      "mohsin_co_payroll_attendance_src_db_database_seedemployeesandattendance",
+      "mohsin_co_payroll_attendance_src_db_database_seedinitialdata",
+      "mohsin_co_payroll_attendance_src_validation",
+      "mohsin_co_payroll_attendance_src_validation_attendanceoverrideschema",
+      "mohsin_co_payroll_attendance_src_validation_bulkattendanceschema",
+      "mohsin_co_payroll_attendance_src_validation_companysettingsschema",
+      "mohsin_co_payroll_attendance_src_validation_createemployeeschema",
+      "mohsin_co_payroll_attendance_src_validation_createshiftschema",
+      "mohsin_co_payroll_attendance_src_validation_createuserschema",
+      "mohsin_co_payroll_attendance_src_validation_loginschema",
+      "mohsin_co_payroll_attendance_src_validation_payrolladjustmentschema",
+      "mohsin_co_payroll_attendance_src_validation_updateemployeeschema",
+      "mohsin_co_payroll_attendance_src_validation_updateshiftschema",
+      "mohsin_co_payroll_attendance_src_validation_updateuserschema",
+      "mohsin_co_payroll_attendance_src_validation_validatebody",
+      "mohsin_co_payroll_attendance_src_validation_validatequery",
+      "ref_bcryptjs",
+      "ref_express",
+      "ref_zod",
+      "tests_release_blockers"
+    ],
+    "3": [
+      "e2e_api_and_security_spec",
+      "e2e_api_and_security_spec_admintoken",
+      "e2e_api_and_security_spec_envcontent",
+      "e2e_api_and_security_spec_envpath",
+      "e2e_api_and_security_spec_envsecretmatch",
+      "e2e_auth_and_navigation_spec",
+      "e2e_core_workflows_spec",
+      "e2e_core_workflows_spec_admintoken",
+      "e2e_core_workflows_spec_ensureloggedin",
+      "e2e_core_workflows_spec_envcontent",
+      "e2e_core_workflows_spec_envpath",
+      "e2e_core_workflows_spec_envsecretmatch",
+      "e2e_core_workflows_spec_testadminuser",
+      "here_example_spec",
+      "package",
+      "package_author",
+      "package_description",
+      "package_devdependencies",
+      "package_devdependencies_playwright_test",
+      "package_devdependencies_types_node",
+      "package_directories",
+      "package_directories_test",
+      "package_json_ref_types_node",
+      "package_keywords",
+      "package_license",
+      "package_main",
+      "package_name",
+      "package_scripts",
+      "package_type",
+      "package_version",
+      "playwright_config",
+      "ref_playwright_test"
+    ],
+    "4": [
+      "tests_test_audit_suite",
+      "tests_test_audit_suite_calculate_daily_wage_payroll",
+      "tests_test_audit_suite_calculate_hours_worked",
+      "tests_test_audit_suite_calculate_monthly_payroll",
+      "tests_test_audit_suite_process_punch",
+      "tests_test_audit_suite_rationale_1",
+      "tests_test_audit_suite_rationale_127",
+      "tests_test_audit_suite_rationale_149",
+      "tests_test_audit_suite_rationale_284",
+      "tests_test_audit_suite_rationale_309",
+      "tests_test_audit_suite_rationale_32",
+      "tests_test_audit_suite_rationale_57",
+      "tests_test_audit_suite_shiftrule",
+      "tests_test_audit_suite_shiftrule_init",
+      "tests_test_audit_suite_test_auto_code_generation_logic",
+      "tests_test_audit_suite_test_daily_wage_payroll",
+      "tests_test_audit_suite_test_hours_worked_calculation",
+      "tests_test_audit_suite_test_monthly_payroll_full_attendance",
+      "tests_test_audit_suite_test_monthly_payroll_mid_month_not_penalizing_future_days",
+      "tests_test_audit_suite_test_monthly_payroll_with_adjustments",
+      "tests_test_audit_suite_test_monthly_payroll_with_approved_leave",
+      "tests_test_audit_suite_test_monthly_payroll_with_unexcused_absences",
+      "tests_test_audit_suite_test_payroll_net_payout_floor",
+      "tests_test_audit_suite_test_punch_exceeding_grace_period_marked_absent",
+      "tests_test_audit_suite_test_punch_exceeding_grace_period_marked_late_when_absent_flag_off",
+      "tests_test_audit_suite_test_punch_on_time",
+      "tests_test_audit_suite_test_punch_within_grace_period",
+      "tests_test_audit_suite_test_self_deletion_bug_demonstration"
+    ],
+    "5": [
+      "mohsin_co_payroll_attendance_package_dependencies",
+      "mohsin_co_payroll_attendance_package_dependencies_bcryptjs",
+      "mohsin_co_payroll_attendance_package_dependencies_cors",
+      "mohsin_co_payroll_attendance_package_dependencies_dotenv",
+      "mohsin_co_payroll_attendance_package_dependencies_express",
+      "mohsin_co_payroll_attendance_package_dependencies_express_rate_limit",
+      "mohsin_co_payroll_attendance_package_dependencies_google_genai",
+      "mohsin_co_payroll_attendance_package_dependencies_helmet",
+      "mohsin_co_payroll_attendance_package_dependencies_jsonwebtoken",
+      "mohsin_co_payroll_attendance_package_dependencies_lucide_react",
+      "mohsin_co_payroll_attendance_package_dependencies_motion",
+      "mohsin_co_payroll_attendance_package_dependencies_multer",
+      "mohsin_co_payroll_attendance_package_dependencies_react",
+      "mohsin_co_payroll_attendance_package_dependencies_react_dom",
+      "mohsin_co_payroll_attendance_package_dependencies_sql_js",
+      "mohsin_co_payroll_attendance_package_dependencies_tailwindcss_vite",
+      "mohsin_co_payroll_attendance_package_dependencies_types_bcryptjs",
+      "mohsin_co_payroll_attendance_package_dependencies_types_cors",
+      "mohsin_co_payroll_attendance_package_dependencies_types_jsonwebtoken",
+      "mohsin_co_payroll_attendance_package_dependencies_types_multer",
+      "mohsin_co_payroll_attendance_package_dependencies_vite",
+      "mohsin_co_payroll_attendance_package_dependencies_vitejs_plugin_react",
+      "mohsin_co_payroll_attendance_package_dependencies_xlsx_js_style",
+      "mohsin_co_payroll_attendance_package_dependencies_zod"
+    ],
+    "6": [
+      "mohsin_co_payroll_attendance_tsconfig",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_allowimportingtsextensions",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_allowjs",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_experimentaldecorators",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_isolatedmodules",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_jsx",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_lib",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_module",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_moduledetection",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_moduleresolution",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_noemit",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_paths",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_skiplibcheck",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_target",
+      "mohsin_co_payroll_attendance_tsconfig_compileroptions_usedefineforclassfields"
+    ],
+    "7": [
+      "specify_scripts_powershell_common",
+      "specify_scripts_powershell_common_find_specifyroot",
+      "specify_scripts_powershell_common_format_speckitcommand",
+      "specify_scripts_powershell_common_get_currentbranch",
+      "specify_scripts_powershell_common_get_featurepathsenv",
+      "specify_scripts_powershell_common_get_invokeseparator",
+      "specify_scripts_powershell_common_get_normalizedpriority",
+      "specify_scripts_powershell_common_get_python3command",
+      "specify_scripts_powershell_common_get_reporoot",
+      "specify_scripts_powershell_common_get_sortedextensionids",
+      "specify_scripts_powershell_common_resolve_specifyinitdir",
+      "specify_scripts_powershell_common_resolve_template",
+      "specify_scripts_powershell_common_resolve_templatecontent",
+      "specify_scripts_powershell_common_save_featurejson",
+      "specify_scripts_powershell_common_test_dirhasfiles",
+      "specify_scripts_powershell_common_test_fileexists"
+    ],
+    "8": [
+      "mohsin_co_payroll_attendance_package_devdependencies",
+      "mohsin_co_payroll_attendance_package_devdependencies_autoprefixer",
+      "mohsin_co_payroll_attendance_package_devdependencies_esbuild",
+      "mohsin_co_payroll_attendance_package_devdependencies_tailwindcss",
+      "mohsin_co_payroll_attendance_package_devdependencies_tsx",
+      "mohsin_co_payroll_attendance_package_devdependencies_types_express",
+      "mohsin_co_payroll_attendance_package_devdependencies_types_node",
+      "mohsin_co_payroll_attendance_package_devdependencies_types_sql_js",
+      "mohsin_co_payroll_attendance_package_devdependencies_typescript",
+      "mohsin_co_payroll_attendance_package_devdependencies_vite"
+    ],
+    "9": [
+      "tests_p0_independent_verification",
+      "tests_p0_independent_verification_adminpayload",
+      "tests_p0_independent_verification_cashierpayload",
+      "tests_p0_independent_verification_cashiertoken",
+      "tests_p0_independent_verification_envcontent",
+      "tests_p0_independent_verification_envpath",
+      "tests_p0_independent_verification_envsecretmatch",
+      "tests_p0_independent_verification_fallbacktoken",
+      "tests_p0_independent_verification_maketoken",
+      "tests_p0_independent_verification_validadmintoken"
+    ],
+    "10": [
+      "tests_p1_independent_verification",
+      "tests_p1_independent_verification_adminpayload",
+      "tests_p1_independent_verification_envcontent",
+      "tests_p1_independent_verification_envpath",
+      "tests_p1_independent_verification_envsecretmatch",
+      "tests_p1_independent_verification_expiredtoken",
+      "tests_p1_independent_verification_validtoken"
+    ],
+    "11": [
+      "tests_qa_adversarial_deep_audit",
+      "tests_qa_adversarial_deep_audit_calculatehoursworked",
+      "tests_qa_adversarial_deep_audit_calculatepayrollformonth",
+      "tests_qa_adversarial_deep_audit_processbiometricpunch",
+      "tests_qa_adversarial_deep_audit_queryall",
+      "tests_qa_adversarial_deep_audit_queryone",
+      "tests_qa_adversarial_deep_audit_setuptestdb"
+    ],
+    "12": [
+      "specify_scripts_powershell_create_new_feature",
+      "specify_scripts_powershell_create_new_feature_convertto_cleanbranchname",
+      "specify_scripts_powershell_create_new_feature_get_branchname",
+      "specify_scripts_powershell_create_new_feature_get_fittedbranchname",
+      "specify_scripts_powershell_create_new_feature_get_highestnumberfromspecs",
+      "specify_scripts_powershell_create_new_feature_test_specprefixinuse"
+    ],
+    "13": [
+      "tests_p1_adversarial_attack",
+      "tests_p1_adversarial_attack_adminpayload",
+      "tests_p1_adversarial_attack_envcontent",
+      "tests_p1_adversarial_attack_envpath",
+      "tests_p1_adversarial_attack_envsecretmatch",
+      "tests_p1_adversarial_attack_validtoken"
+    ],
+    "14": [
+      "tests_p0_adversarial_attack",
+      "tests_p0_adversarial_attack_envcontent",
+      "tests_p0_adversarial_attack_envpath",
+      "tests_p0_adversarial_attack_envsecretmatch",
+      "tests_p0_adversarial_attack_maketoken"
+    ],
+    "15": [
+      "tests_p0_regression",
+      "tests_p0_regression_envcontent",
+      "tests_p0_regression_envpath",
+      "tests_p0_regression_envsecretmatch",
+      "tests_p0_regression_getadmintoken"
+    ],
+    "16": [
+      "tests_p1_regression",
+      "tests_p1_regression_admintoken",
+      "tests_p1_regression_envcontent",
+      "tests_p1_regression_envpath",
+      "tests_p1_regression_envsecretmatch"
+    ],
+    "17": [
+      "tests_p2_adversarial_attack",
+      "tests_p2_adversarial_attack_admintoken",
+      "tests_p2_adversarial_attack_envcontent",
+      "tests_p2_adversarial_attack_envpath",
+      "tests_p2_adversarial_attack_envsecretmatch"
+    ],
+    "18": [
+      "tests_p2_regression",
+      "tests_p2_regression_admintoken",
+      "tests_p2_regression_envcontent",
+      "tests_p2_regression_envpath",
+      "tests_p2_regression_envsecretmatch"
+    ],
+    "19": [
+      "tests_new_adversarial_defects",
+      "tests_new_adversarial_defects_authtoken",
+      "tests_new_adversarial_defects_getadmintoken"
+    ],
+    "20": [
+      "tests_adversarial_live_audit",
+      "tests_adversarial_live_audit_login"
+    ],
+    "21": [
+      "original_modal"
+    ],
+    "22": [
+      "specify_scripts_powershell_check_prerequisites"
+    ],
+    "23": [
+      "specify_scripts_powershell_resolve_template"
+    ],
+    "24": [
+      "specify_scripts_powershell_setup_plan"
+    ],
+    "25": [
+      "specify_scripts_powershell_setup_tasks"
+    ],
+    "26": [
+      "tests_comprehensive_deep_qa_audit"
+    ],
+    "27": [
+      "tests_node_audit_test"
+    ],
+    "28": [
+      "tests_qa_attendance_audit_test"
+    ]
+  },
+  "cohesion": {
+    "0": 0.09316770186335403,
+    "1": 0.04521276595744681,
+    "2": 0.1101010101010101,
+    "3": 0.0625,
+    "4": 0.1164021164021164,
+    "5": 0.08333333333333333,
+    "6": 0.125,
+    "7": 0.225,
+    "8": 0.2,
+    "9": 0.2,
+    "10": 0.2857142857142857,
+    "11": 0.42857142857142855,
+    "12": 0.4,
+    "13": 0.3333333333333333,
+    "14": 0.4,
+    "15": 0.4,
+    "16": 0.4,
+    "17": 0.4,
+    "18": 0.4,
+    "19": 0.6666666666666666,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0
+  },
+  "gods": [
+    {
+      "id": "mohsin_co_payroll_attendance_src_auth_authcontext_authfetch",
+      "label": "authFetch()",
+      "degree": 17
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_server_startserver",
+      "label": "startServer()",
+      "degree": 17
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 15
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 15
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_src_types_attendancerecord",
+      "label": "AttendanceRecord",
+      "degree": 13
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_src_types_employee",
+      "label": "Employee",
+      "degree": 13
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_src_types_payrollrecord",
+      "label": "PayrollRecord",
+      "degree": 11
+    },
+    {
+      "id": "ref_lucide_react",
+      "label": "lucide-react",
+      "degree": 10
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_src_utils_printutils_printformatteddocument",
+      "label": "printFormattedDocument()",
+      "degree": 9
+    },
+    {
+      "id": "mohsin_co_payroll_attendance_src_types_shiftrule",
+      "label": "ShiftRule",
+      "degree": 8
+    }
+  ],
+  "surprises": [
+    {
+      "source": "AuthContextType",
+      "target": "User",
+      "source_files": [
+        "mohsin-&-co-payroll-&-attendance/src/auth/AuthContext.tsx",
+        "mohsin-&-co-payroll-&-attendance/src/types.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "peripheral node `AuthContextType` unexpectedly reaches hub `User`"
+    },
+    {
+      "source": "AppContent()",
+      "target": "useAuth()",
+      "source_files": [
+        "mohsin-&-co-payroll-&-attendance/src/App.tsx",
+        "mohsin-&-co-payroll-&-attendance/src/auth/AuthContext.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `AppContent()` unexpectedly reaches hub `useAuth()`"
+    },
+    {
+      "source": "MainApp()",
+      "target": "authFetch()",
+      "source_files": [
+        "mohsin-&-co-payroll-&-attendance/src/App.tsx",
+        "mohsin-&-co-payroll-&-attendance/src/auth/AuthContext.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `MainApp()` unexpectedly reaches hub `authFetch()`"
+    },
+    {
+      "source": "startServer()",
+      "target": "authMiddleware()",
+      "source_files": [
+        "mohsin-&-co-payroll-&-attendance/server.ts",
+        "mohsin-&-co-payroll-&-attendance/src/auth.ts"
+      ],
+      "confidence": "INFERRED",
+      "relation": "indirect_call",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "AttendanceViewProps",
+      "target": "AttendanceRecord",
+      "source_files": [
+        "mohsin-&-co-payroll-&-attendance/src/components/AttendanceView.tsx",
+        "mohsin-&-co-payroll-&-attendance/src/types.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `@types/node` connect `package.json` to `mohsin-&-co-payroll-&-attendance/package.json`?",
+      "why": "High betweenness centrality (0.098) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `dependencies` connect `dependencies` to `mohsin-&-co-payroll-&-attendance/package.json`?",
+      "why": "High betweenness centrality (0.080) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `react` connect `App.tsx` to `mohsin-&-co-payroll-&-attendance/package.json`?",
+      "why": "High betweenness centrality (0.077) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `SettingsViewProps`, `SidebarProps`, `StatusChipProps` to the rest of the system?",
+      "why": "143 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `App.tsx` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09316770186335403 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `mohsin-&-co-payroll-&-attendance/package.json` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.04521276595744681 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `server.ts` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1101010101010101 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

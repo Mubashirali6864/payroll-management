@@ -1,0 +1,1070 @@
+{
+  ".specify/init-options.json": {
+    "mtime": 1788195229.1017067,
+    "seen": 1788776841.5495186,
+    "ast_hash": "5f6aecc28c64d7a3fef12122c4bedd88",
+    "semantic_hash": "5f6aecc28c64d7a3fef12122c4bedd88"
+  },
+  ".specify/integration.json": {
+    "mtime": 1788195228.392588,
+    "seen": 1788776841.5495245,
+    "ast_hash": "c103b865335979308bfca1ce55825e3e",
+    "semantic_hash": "c103b865335979308bfca1ce55825e3e"
+  },
+  ".specify/integrations/copilot.manifest.json": {
+    "mtime": 1788195230.0093787,
+    "seen": 1788776841.5495276,
+    "ast_hash": "1b237599ad604785f78bc94474008373",
+    "semantic_hash": "1b237599ad604785f78bc94474008373"
+  },
+  ".specify/integrations/speckit.manifest.json": {
+    "mtime": 1788195229.0294108,
+    "seen": 1788776841.5495293,
+    "ast_hash": "09f029fe452da1ae9c9b02f92b6edd76",
+    "semantic_hash": "09f029fe452da1ae9c9b02f92b6edd76"
+  },
+  ".specify/memory/.constitution-template.json": {
+    "mtime": 1788195229.1088998,
+    "seen": 1788776841.549531,
+    "ast_hash": "7e3332a78cec1722b4351c6bf52dfc51",
+    "semantic_hash": "7e3332a78cec1722b4351c6bf52dfc51"
+  },
+  ".specify/scripts/powershell/check-prerequisites.ps1": {
+    "mtime": 1788195228.784165,
+    "seen": 1788776841.5495322,
+    "ast_hash": "ab9d4c9d5772d28c6b2150b1f53ac638",
+    "semantic_hash": "ab9d4c9d5772d28c6b2150b1f53ac638"
+  },
+  ".specify/scripts/powershell/common.ps1": {
+    "mtime": 1788195228.8081286,
+    "seen": 1788776841.5495336,
+    "ast_hash": "fd09e10201fab5e4181d4ed5012bc511",
+    "semantic_hash": "fd09e10201fab5e4181d4ed5012bc511"
+  },
+  ".specify/scripts/powershell/create-new-feature.ps1": {
+    "mtime": 1788195228.833034,
+    "seen": 1788776841.5495348,
+    "ast_hash": "fad051375e6dcd47030cc49188472fe1",
+    "semantic_hash": "fad051375e6dcd47030cc49188472fe1"
+  },
+  ".specify/scripts/powershell/resolve-template.ps1": {
+    "mtime": 1788195228.8740754,
+    "seen": 1788776841.549536,
+    "ast_hash": "645ad018c6297df6e23949ac3e915749",
+    "semantic_hash": "645ad018c6297df6e23949ac3e915749"
+  },
+  ".specify/scripts/powershell/setup-plan.ps1": {
+    "mtime": 1788195228.8890393,
+    "seen": 1788776841.5495372,
+    "ast_hash": "02abf0794256a7423782adc760f0e0ca",
+    "semantic_hash": "02abf0794256a7423782adc760f0e0ca"
+  },
+  ".specify/scripts/powershell/setup-tasks.ps1": {
+    "mtime": 1788195228.8979065,
+    "seen": 1788776841.5495386,
+    "ast_hash": "9aa2f52ce7abece8476845b1f21a0ced",
+    "semantic_hash": "9aa2f52ce7abece8476845b1f21a0ced"
+  },
+  ".specify/workflows/workflow-registry.json": {
+    "mtime": 1788195229.0977166,
+    "seen": 1788776841.5495403,
+    "ast_hash": "b9d4c66550423f718d63619f8cad1bc5",
+    "semantic_hash": "b9d4c66550423f718d63619f8cad1bc5"
+  },
+  ".vscode/settings.json": {
+    "mtime": 1788194323.4339416,
+    "seen": 1788776841.5495415,
+    "ast_hash": "4460d01d43162d296ad87f2c5f37d6b9",
+    "semantic_hash": "4460d01d43162d296ad87f2c5f37d6b9"
+  },
+  "e2e/api_and_security.spec.js": {
+    "mtime": 1788699141.26825,
+    "seen": 1788776841.549543,
+    "ast_hash": "43dee2549e6690e8798660519498136b",
+    "semantic_hash": "43dee2549e6690e8798660519498136b"
+  },
+  "e2e/auth_and_navigation.spec.js": {
+    "mtime": 1788266445.633724,
+    "seen": 1788776841.549544,
+    "ast_hash": "b4fdf654edeb4fd276db42120a9a1d11",
+    "semantic_hash": "b4fdf654edeb4fd276db42120a9a1d11"
+  },
+  "e2e/core_workflows.spec.js": {
+    "mtime": 1792599113.6509857,
+    "seen": 1792599199.6926513,
+    "ast_hash": "0fd056b3c2d4ce0a72b26686c6fb3cfb",
+    "semantic_hash": ""
+  },
+  "here/example.spec.js": {
+    "mtime": 1788195389.6696088,
+    "seen": 1788776841.5495467,
+    "ast_hash": "d4511c5e832301303c4a858124c75e90",
+    "semantic_hash": "d4511c5e832301303c4a858124c75e90"
+  },
+  "mohsin-&-co-payroll-&-attendance/build.js": {
+    "mtime": 1792591333.8903995,
+    "seen": 1792598503.0518465,
+    "ast_hash": "d3da555c4ca4ad8e1cbb6d1d4f7f349b",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/package.json": {
+    "mtime": 1792250155.6772492,
+    "seen": 1792598503.0518603,
+    "ast_hash": "783e59abc5d21304e1effec3a4130b6b",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/server.ts": {
+    "mtime": 1792676561.436088,
+    "seen": 1792676797.9155054,
+    "ast_hash": "e73e3a4b6030a5909aac76a204327af5",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/App.tsx": {
+    "mtime": 1792676486.367509,
+    "seen": 1792676797.915511,
+    "ast_hash": "938b36fc7b89aee4b353059060f93029",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/auth.ts": {
+    "mtime": 1788274728.052517,
+    "seen": 1788776841.549553,
+    "ast_hash": "291e199f7e8cb8e7d36611f1a6c9fdc7",
+    "semantic_hash": "291e199f7e8cb8e7d36611f1a6c9fdc7"
+  },
+  "mohsin-&-co-payroll-&-attendance/src/auth/AuthContext.tsx": {
+    "mtime": 1792599098.291634,
+    "seen": 1792599199.6927025,
+    "ast_hash": "ef89802d85a364aa10a19f5f4dab9a07",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/AttendanceView.tsx": {
+    "mtime": 1792676177.682372,
+    "seen": 1792676324.2005074,
+    "ast_hash": "0890457734c7b80ece132c6dc882ea87",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/DashboardView.tsx": {
+    "mtime": 1792678144.098281,
+    "seen": 1792678221.157261,
+    "ast_hash": "d14661ebe4b96e494e2f239dc42e8089",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/EmployeeDetailModal.tsx": {
+    "mtime": 1792675099.3643737,
+    "seen": 1792675173.3532355,
+    "ast_hash": "de940779b42956b3f5c483f1e9f3ba56",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/EmployeeManagementView.tsx": {
+    "mtime": 1792676155.3525794,
+    "seen": 1792676324.2005138,
+    "ast_hash": "16348902686120fda23f85e8f6a13bd7",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/LoginPage.tsx": {
+    "mtime": 1791729281.1036448,
+    "seen": 1792598503.0519218,
+    "ast_hash": "390249d094286c0f3fd6f7d67b73b1f6",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/Navbar.tsx": {
+    "mtime": 1792423395.308916,
+    "seen": 1792598503.051928,
+    "ast_hash": "fc91627e862d05de2d5a303f857fda1a",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/PayrollView.tsx": {
+    "mtime": 1792676202.8346608,
+    "seen": 1792676324.2005193,
+    "ast_hash": "7a474a214c9becaf2f51f97b5128b80d",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/ReportsView.tsx": {
+    "mtime": 1792676019.9929323,
+    "seen": 1792676324.2005212,
+    "ast_hash": "50924c1a99afaad2a58f24c629ddbbb0",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/SettingsView.tsx": {
+    "mtime": 1791729176.5668397,
+    "seen": 1792598503.051946,
+    "ast_hash": "de5a252618875dd4ff4a1ca1b701f3ba",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/Sidebar.tsx": {
+    "mtime": 1792595046.6950107,
+    "seen": 1792598503.0519524,
+    "ast_hash": "f2bea5c14347b4da3fed82bc8e452a25",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/components/StatusChip.tsx": {
+    "mtime": 1786899222.5096488,
+    "seen": 1788776841.5495682,
+    "ast_hash": "5f097fdaea008d1b453945f44f7f5805",
+    "semantic_hash": "5f097fdaea008d1b453945f44f7f5805"
+  },
+  "mohsin-&-co-payroll-&-attendance/src/db/database.ts": {
+    "mtime": 1792596485.9507465,
+    "seen": 1792598503.051966,
+    "ast_hash": "ccc6e7aa43ff791f535caec94a43563d",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/main.tsx": {
+    "mtime": 1786850260.0,
+    "seen": 1788776841.5495708,
+    "ast_hash": "2b36426d5ad7e08ef79746aa524f4fb7",
+    "semantic_hash": "2b36426d5ad7e08ef79746aa524f4fb7"
+  },
+  "mohsin-&-co-payroll-&-attendance/src/types.ts": {
+    "mtime": 1792676439.7898786,
+    "seen": 1792676797.9155824,
+    "ast_hash": "bf0f48cbc5f5b4589875c32bdcc610e2",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/utils/printUtils.ts": {
+    "mtime": 1792668580.3194945,
+    "seen": 1792669273.2386281,
+    "ast_hash": "9b41fdbc81a7323918c1326ce0fcb4ec",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/src/validation.ts": {
+    "mtime": 1792678353.7416255,
+    "seen": 1792678556.3507483,
+    "ast_hash": "111c7647bf57518d53f430be1bc625ad",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/test-results/.last-run.json": {
+    "mtime": 1788263700.4083445,
+    "seen": 1788776841.549576,
+    "ast_hash": "ff6d5dab1dfd50cea584142bc288ce9e",
+    "semantic_hash": "ff6d5dab1dfd50cea584142bc288ce9e"
+  },
+  "mohsin-&-co-payroll-&-attendance/tsconfig.json": {
+    "mtime": 1786850260.0,
+    "seen": 1788776841.5495772,
+    "ast_hash": "8827451c4e35790dd3f3538c265e7d15",
+    "semantic_hash": "8827451c4e35790dd3f3538c265e7d15"
+  },
+  "mohsin-&-co-payroll-&-attendance/vite.config.ts": {
+    "mtime": 1787500079.9422767,
+    "seen": 1788776841.5495784,
+    "ast_hash": "f1f25b93ac979db66868702e00d807dc",
+    "semantic_hash": "f1f25b93ac979db66868702e00d807dc"
+  },
+  "original_modal.tsx": {
+    "mtime": 1788197591.905608,
+    "seen": 1788776841.5495799,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "package.json": {
+    "mtime": 1788873375.4661474,
+    "seen": 1792598503.0520277,
+    "ast_hash": "a22b721fa6e045d22179315e9f80cb25",
+    "semantic_hash": ""
+  },
+  "playwright.config.js": {
+    "mtime": 1788270221.5703876,
+    "seen": 1788776841.549583,
+    "ast_hash": "e50e6461c46ba8099225bcb0d51c0b6e",
+    "semantic_hash": "e50e6461c46ba8099225bcb0d51c0b6e"
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/build.js": {
+    "mtime": 1787497252.0,
+    "seen": 1788776841.5495842,
+    "ast_hash": "e274398e1550207595db1207360cdca5",
+    "semantic_hash": "e274398e1550207595db1207360cdca5"
+  },
+  "tests/adversarial_live_audit.mjs": {
+    "mtime": 1788197467.2150326,
+    "seen": 1788776841.5495853,
+    "ast_hash": "a9adc6f11842ed3dc3bb42fbfea64a45",
+    "semantic_hash": "a9adc6f11842ed3dc3bb42fbfea64a45"
+  },
+  "tests/comprehensive_deep_qa_audit.mjs": {
+    "mtime": 1792597142.6738918,
+    "seen": 1792598503.0520568,
+    "ast_hash": "c9c96014270f5277f83f42ba85bdc9d8",
+    "semantic_hash": ""
+  },
+  "tests/new_adversarial_defects.mjs": {
+    "mtime": 1788198779.4475596,
+    "seen": 1788776841.5495877,
+    "ast_hash": "818d1fa87a1f8f7f223da6a4484c69c9",
+    "semantic_hash": "818d1fa87a1f8f7f223da6a4484c69c9"
+  },
+  "tests/node_audit_test.mjs": {
+    "mtime": 1788194845.5733008,
+    "seen": 1788776841.549589,
+    "ast_hash": "77f2fdcafdd23477cedb3ad405f95ede",
+    "semantic_hash": "77f2fdcafdd23477cedb3ad405f95ede"
+  },
+  "tests/p0_adversarial_attack.mjs": {
+    "mtime": 1788270133.6227264,
+    "seen": 1788776841.5495903,
+    "ast_hash": "1932c0c4b77baf7f78af9ec3c008cdb9",
+    "semantic_hash": "1932c0c4b77baf7f78af9ec3c008cdb9"
+  },
+  "tests/p0_independent_verification.mjs": {
+    "mtime": 1788202591.108973,
+    "seen": 1788776841.5495915,
+    "ast_hash": "141ce60ca17e2685467b765be0d82b7b",
+    "semantic_hash": "141ce60ca17e2685467b765be0d82b7b"
+  },
+  "tests/p0_regression.mjs": {
+    "mtime": 1788266763.190876,
+    "seen": 1788776841.5495925,
+    "ast_hash": "6b9f817b20921557537ad1be7df6a2c3",
+    "semantic_hash": "6b9f817b20921557537ad1be7df6a2c3"
+  },
+  "tests/p1_adversarial_attack.mjs": {
+    "mtime": 1792250190.3685615,
+    "seen": 1792598503.0520978,
+    "ast_hash": "7e328b59f6c0dd5b9c01362e78e48797",
+    "semantic_hash": ""
+  },
+  "tests/p1_independent_verification.mjs": {
+    "mtime": 1788203612.9428082,
+    "seen": 1788776841.5495954,
+    "ast_hash": "0d7142f63df417fc3a3ee3c489a272f6",
+    "semantic_hash": "0d7142f63df417fc3a3ee3c489a272f6"
+  },
+  "tests/p1_regression.mjs": {
+    "mtime": 1788203295.312529,
+    "seen": 1788776841.5495968,
+    "ast_hash": "339406702765f5406f011e35f75d152c",
+    "semantic_hash": "339406702765f5406f011e35f75d152c"
+  },
+  "tests/p2_adversarial_attack.mjs": {
+    "mtime": 1788261815.3427086,
+    "seen": 1788776841.5495977,
+    "ast_hash": "b70778d6a978d1f95deb5f232c6338ee",
+    "semantic_hash": "b70778d6a978d1f95deb5f232c6338ee"
+  },
+  "tests/p2_regression.mjs": {
+    "mtime": 1788261724.8720632,
+    "seen": 1788776841.549599,
+    "ast_hash": "e7c1d5f4b742f3beac624110b2ca1109",
+    "semantic_hash": "e7c1d5f4b742f3beac624110b2ca1109"
+  },
+  "tests/qa_adversarial_deep_audit.mjs": {
+    "mtime": 1788195896.5901048,
+    "seen": 1788776841.5496004,
+    "ast_hash": "60588b1ec2d298248d637a8069842b2f",
+    "semantic_hash": "60588b1ec2d298248d637a8069842b2f"
+  },
+  "tests/qa_attendance_audit_test.mjs": {
+    "mtime": 1788698944.3669994,
+    "seen": 1788776841.5496016,
+    "ast_hash": "8b9f48e7a9bb2ff085815a5fb39b9cc2",
+    "semantic_hash": "8b9f48e7a9bb2ff085815a5fb39b9cc2"
+  },
+  "tests/rate_limit_ux_verification.mjs": {
+    "mtime": 1788274707.8483138,
+    "seen": 1788776841.5496027,
+    "ast_hash": "b848636e624820b2d64badac2419d521",
+    "semantic_hash": "b848636e624820b2d64badac2419d521"
+  },
+  "tests/release_blockers.mjs": {
+    "mtime": 1788270022.2956073,
+    "seen": 1788776841.5496042,
+    "ast_hash": "73edfd9e04494ec54d64f551c8676697",
+    "semantic_hash": "73edfd9e04494ec54d64f551c8676697"
+  },
+  "tests/test_audit_suite.py": {
+    "mtime": 1788194747.5038393,
+    "seen": 1788776841.5496054,
+    "ast_hash": "39b95ac3f25069eb8b7c58c1ecee888e",
+    "semantic_hash": "39b95ac3f25069eb8b7c58c1ecee888e"
+  },
+  "docs/archify-architecture.json": {
+    "mtime": 1792593596.4955885,
+    "seen": 1792598503.0517986,
+    "ast_hash": "30abe2676c92f866d745305e3d292c50",
+    "semantic_hash": ""
+  },
+  "docs/archify-payroll-lifecycle.json": {
+    "mtime": 1792593671.1117125,
+    "seen": 1792598503.051808,
+    "ast_hash": "22aa47d31cdbb29508a29acfea85ed19",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/check_emp.mjs": {
+    "mtime": 1792592219.8887444,
+    "seen": 1792598503.051853,
+    "ast_hash": "7f28b8a31d0a22b633cd8d70aa6b5876",
+    "semantic_hash": ""
+  },
+  "tests/uat_v2_regression.mjs": {
+    "mtime": 1792252860.2928147,
+    "seen": 1792598503.0521681,
+    "ast_hash": "12407453ec16caa12279037c01da38a2",
+    "semantic_hash": ""
+  },
+  "tests/user_requests_verification.mjs": {
+    "mtime": 1792252787.8323689,
+    "seen": 1792598503.0521743,
+    "ast_hash": "010e77683c88514b945a02cee6e6c235",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-analyze/SKILL.md": {
+    "mtime": 1788195228.0097983,
+    "seen": 1792598503.0521805,
+    "ast_hash": "73e97f51c2f64a5cf37578898be859a1",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-bug-assess/SKILL.md": {
+    "mtime": 1788195229.9299626,
+    "seen": 1792598503.0521867,
+    "ast_hash": "922ea1143498082e9917b5390a25cb39",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-bug-fix/SKILL.md": {
+    "mtime": 1788195229.9469223,
+    "seen": 1792598503.0521924,
+    "ast_hash": "d5aefdd5a80caaf31a643d39b91b5725",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-bug-test/SKILL.md": {
+    "mtime": 1788195229.960693,
+    "seen": 1792598503.0521984,
+    "ast_hash": "cb5f7ff3ca58076c3642628525cfd720",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-checklist/SKILL.md": {
+    "mtime": 1788195228.2452185,
+    "seen": 1792598503.0522044,
+    "ast_hash": "a17e23ec3c33e2aabba1f4e11eab87b3",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-clarify/SKILL.md": {
+    "mtime": 1788195228.0486276,
+    "seen": 1792598503.05221,
+    "ast_hash": "9b3eb76aaa5b3f0b743b9b141e3b8be4",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-constitution/SKILL.md": {
+    "mtime": 1788195228.092264,
+    "seen": 1792598503.0522158,
+    "ast_hash": "36d4f3971bbeb93e67e1aa8c3ea065e5",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-converge/SKILL.md": {
+    "mtime": 1788195228.1744065,
+    "seen": 1792598503.0522213,
+    "ast_hash": "fc7f26e7fe45ca8496a54325acab0be4",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-implement/SKILL.md": {
+    "mtime": 1788195228.1432443,
+    "seen": 1792598503.052227,
+    "ast_hash": "8f8c20b8eca7872158bf94d063dd5307",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-plan/SKILL.md": {
+    "mtime": 1788195228.208681,
+    "seen": 1792598503.0522325,
+    "ast_hash": "9bb3d4fd6f04b3a324beb7e8482a8b2f",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-specify/SKILL.md": {
+    "mtime": 1788195228.2768095,
+    "seen": 1792598503.052239,
+    "ast_hash": "fa6eba6403c5da5eb25132e43cc4dbc3",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-tasks/SKILL.md": {
+    "mtime": 1788195228.3081372,
+    "seen": 1792598503.0522456,
+    "ast_hash": "dd9a1792181242ac1a776d46cff08e99",
+    "semantic_hash": ""
+  },
+  ".github/skills/speckit-taskstoissues/SKILL.md": {
+    "mtime": 1788195228.3369334,
+    "seen": 1792598503.052251,
+    "ast_hash": "194aa274d9edc32ad1bd50db271459a0",
+    "semantic_hash": ""
+  },
+  ".github/workflows/playwright.yml": {
+    "mtime": 1788195389.6686132,
+    "seen": 1792598503.052257,
+    "ast_hash": "8eeea4038250dc5028a9d1bf4da54425",
+    "semantic_hash": ""
+  },
+  ".specify/extensions.yml": {
+    "mtime": 1788195229.9629278,
+    "seen": 1792598503.0522623,
+    "ast_hash": "b524ce82a075e29c303d0aef22dcb3cc",
+    "semantic_hash": ""
+  },
+  ".specify/extensions/bug/README.md": {
+    "mtime": 1788194695.6395862,
+    "seen": 1792598503.0522683,
+    "ast_hash": "db1afed80e282ec2541152a15b95023e",
+    "semantic_hash": ""
+  },
+  ".specify/extensions/bug/commands/speckit.bug.assess.md": {
+    "mtime": 1788194695.6415806,
+    "seen": 1792598503.0522742,
+    "ast_hash": "0a524d71a05844d217bc50ebf1b05193",
+    "semantic_hash": ""
+  },
+  ".specify/extensions/bug/commands/speckit.bug.fix.md": {
+    "mtime": 1788194695.642578,
+    "seen": 1792598503.0522797,
+    "ast_hash": "2df420d43bf1cbbbd6ef7eca4ea2195c",
+    "semantic_hash": ""
+  },
+  ".specify/extensions/bug/commands/speckit.bug.test.md": {
+    "mtime": 1788194695.6435747,
+    "seen": 1792598503.0522926,
+    "ast_hash": "65d23d0dded02a2b02288b0cb12a837b",
+    "semantic_hash": ""
+  },
+  ".specify/extensions/bug/extension.yml": {
+    "mtime": 1788194695.6395862,
+    "seen": 1792598503.0522988,
+    "ast_hash": "3165824ffe8d2c57c250ccc6e83a97d4",
+    "semantic_hash": ""
+  },
+  ".specify/memory/constitution.md": {
+    "mtime": 1792678497.717229,
+    "seen": 1792678556.3509557,
+    "ast_hash": "cdd9c80b2df275432932d98ec887c454",
+    "semantic_hash": ""
+  },
+  ".specify/templates/checklist-template.md": {
+    "mtime": 1788195228.9178557,
+    "seen": 1792598503.0523102,
+    "ast_hash": "5af23404f7e1314e93fab2bcfcfa5c23",
+    "semantic_hash": ""
+  },
+  ".specify/templates/constitution-template.md": {
+    "mtime": 1788195228.9350007,
+    "seen": 1792598503.052316,
+    "ast_hash": "dcefb6b60e7cb3db2e966977b6f02f18",
+    "semantic_hash": ""
+  },
+  ".specify/templates/plan-template.md": {
+    "mtime": 1788195228.9400089,
+    "seen": 1792598503.052322,
+    "ast_hash": "311db0670c3d19d2f5b781de97529b79",
+    "semantic_hash": ""
+  },
+  ".specify/templates/spec-template.md": {
+    "mtime": 1788195228.958718,
+    "seen": 1792598503.0523276,
+    "ast_hash": "45ac8538bc1220324c9f0d610145b53f",
+    "semantic_hash": ""
+  },
+  ".specify/templates/tasks-template.md": {
+    "mtime": 1788195228.9897738,
+    "seen": 1792598503.0523334,
+    "ast_hash": "f8b4f62d384defa0a559bdbbaacb0540",
+    "semantic_hash": ""
+  },
+  ".specify/workflows/speckit/workflow.yml": {
+    "mtime": 1788194695.7143848,
+    "seen": 1792598503.0523388,
+    "ast_hash": "06fd89e478bb8e0e668917a5f02f9055",
+    "semantic_hash": ""
+  },
+  "ADVERSARIAL_REVIEW.md": {
+    "mtime": 1788198742.9019258,
+    "seen": 1792598503.0523446,
+    "ast_hash": "652f1b50126f9d03606a208e6e4e114a",
+    "semantic_hash": ""
+  },
+  "docs/PAYROLL_ARCHITECTURE_AND_MEMORY.md": {
+    "mtime": 1792678541.6343038,
+    "seen": 1792678556.3509943,
+    "ast_hash": "0dd8f379e8b43508eba01b34e39a38a7",
+    "semantic_hash": ""
+  },
+  "docs/architecture.html": {
+    "mtime": 1792593607.149373,
+    "seen": 1792598503.0523558,
+    "ast_hash": "854f9cc780e40454166d946293e44fc8",
+    "semantic_hash": ""
+  },
+  "docs/payroll-lifecycle.html": {
+    "mtime": 1792593683.968568,
+    "seen": 1792598503.0523615,
+    "ast_hash": "69df154237bf469536fbc692eb2acccb",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/README.md": {
+    "mtime": 1792593703.4563181,
+    "seen": 1792598503.0523734,
+    "ast_hash": "474d806c2d822f2137c1b4bf27299717",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/index.html": {
+    "mtime": 1786875352.7232816,
+    "seen": 1792598503.0523798,
+    "ast_hash": "e49902fe8994e411c87042db89fbddc5",
+    "semantic_hash": ""
+  },
+  "qa/QA_MAP.md": {
+    "mtime": 1788196496.5230339,
+    "seen": 1792598503.0523858,
+    "ast_hash": "3efa743063892c2f9718b1d7cb818d91",
+    "semantic_hash": ""
+  },
+  "qa/TEST_MATRIX.md": {
+    "mtime": 1788196596.1261609,
+    "seen": 1792598503.0523915,
+    "ast_hash": "e28eae9ad4e821cfad7d76c60b1c2f9a",
+    "semantic_hash": ""
+  },
+  "qa/audits/CODE_AUDIT.md": {
+    "mtime": 1788196577.285017,
+    "seen": 1792598503.0523973,
+    "ast_hash": "09780fc824719961622020f9b1c4f123",
+    "semantic_hash": ""
+  },
+  "qa/audits/INDEPENDENT_ADVERSARIAL_AUDIT.md": {
+    "mtime": 1788198802.9302592,
+    "seen": 1792598503.0524027,
+    "ast_hash": "4a19b2c3907af3a62a2795a260ac447e",
+    "semantic_hash": ""
+  },
+  "qa/audits/TEST_AUDIT.md": {
+    "mtime": 1788196587.6545024,
+    "seen": 1792598503.0524085,
+    "ast_hash": "bb1db63a89829f456fd15a43fbc0dc66",
+    "semantic_hash": ""
+  },
+  "qa/findings/FALSE_POSITIVES.md": {
+    "mtime": 1788198169.686126,
+    "seen": 1792598503.0524144,
+    "ast_hash": "4590a7d3da8e24e49616b1af739b9a68",
+    "semantic_hash": ""
+  },
+  "qa/findings/FIXED.md": {
+    "mtime": 1788266890.229704,
+    "seen": 1792598503.0524201,
+    "ast_hash": "6537a95af0c85b3bf6e2b0ec7e1bcc20",
+    "semantic_hash": ""
+  },
+  "qa/findings/FIX_PLAN.md": {
+    "mtime": 1788200764.462441,
+    "seen": 1792598503.052426,
+    "ast_hash": "89349a52023194edf9e8b7c33587c8f6",
+    "semantic_hash": ""
+  },
+  "qa/findings/OPEN.md": {
+    "mtime": 1788198160.490671,
+    "seen": 1792598503.0524318,
+    "ast_hash": "338269283872503e18cad8782c7238df",
+    "semantic_hash": ""
+  },
+  "qa/findings/P1_FIX_PLAN.md": {
+    "mtime": 1788202854.5937428,
+    "seen": 1792598503.052438,
+    "ast_hash": "220a133ff2911fe77ab67e0513cd920d",
+    "semantic_hash": ""
+  },
+  "qa/findings/P2_FIX_PLAN.md": {
+    "mtime": 1788260950.6722772,
+    "seen": 1792598503.052444,
+    "ast_hash": "108c80c0d5da6aa964f09dac714a5fbf",
+    "semantic_hash": ""
+  },
+  "qa/findings/VERIFIED.md": {
+    "mtime": 1788266907.482908,
+    "seen": 1792598503.05245,
+    "ast_hash": "dfe7d4abad4f79cc88ef257ffb446688",
+    "semantic_hash": ""
+  },
+  "qa/reports/DATABASE_BACKUP_RUNBOOK.md": {
+    "mtime": 1788266151.6640465,
+    "seen": 1792598503.0524557,
+    "ast_hash": "65ddc061ac2d5e79dcd1b5d6497d20b4",
+    "semantic_hash": ""
+  },
+  "qa/reports/FINAL_DEPLOYMENT_SECURITY_GATE.md": {
+    "mtime": 1788265445.4396672,
+    "seen": 1792598503.0524619,
+    "ast_hash": "26612622ee84b23049688e51ded28ba6",
+    "semantic_hash": ""
+  },
+  "qa/reports/FINAL_PRE_DEPLOYMENT_STATUS.md": {
+    "mtime": 1788271950.678928,
+    "seen": 1792598503.0524673,
+    "ast_hash": "da3278c1b4c0d832c68fb60fa4203798",
+    "semantic_hash": ""
+  },
+  "qa/reports/FINAL_PRODUCTION_READINESS_REPORT.md": {
+    "mtime": 1788264805.073849,
+    "seen": 1792598503.052473,
+    "ast_hash": "fbeb2266473f3231987c59decc51b70b",
+    "semantic_hash": ""
+  },
+  "qa/reports/FINAL_REPORT.md": {
+    "mtime": 1788198183.051993,
+    "seen": 1792598503.0524788,
+    "ast_hash": "2ac495ad7b6a982c4922d7282f06e414",
+    "semantic_hash": ""
+  },
+  "qa/reports/LOGIN_RATE_LIMIT_UX_FIX_REPORT.md": {
+    "mtime": 1788275418.993741,
+    "seen": 1792598503.052484,
+    "ast_hash": "b0a97ec637561c923439fc09c8413f10",
+    "semantic_hash": ""
+  },
+  "qa/reports/P0_FIX_REPORT.md": {
+    "mtime": 1788202319.966238,
+    "seen": 1792598503.0524898,
+    "ast_hash": "651053fbf908ba39b79bf78289c79d50",
+    "semantic_hash": ""
+  },
+  "qa/reports/P0_VERIFICATION_REPORT.md": {
+    "mtime": 1788202712.2452934,
+    "seen": 1792598503.052496,
+    "ast_hash": "c5cbedfdf8a24099d6f8c779dd744ae1",
+    "semantic_hash": ""
+  },
+  "qa/reports/P1_FIX_REPORT.md": {
+    "mtime": 1788203561.8888538,
+    "seen": 1792598503.0525014,
+    "ast_hash": "9acf09d06fe0f5085c5153d725895782",
+    "semantic_hash": ""
+  },
+  "qa/reports/P1_VERIFICATION_REPORT.md": {
+    "mtime": 1788203656.1578145,
+    "seen": 1792598503.052507,
+    "ast_hash": "51cbba26659e603e8b25afa3855c06c9",
+    "semantic_hash": ""
+  },
+  "qa/reports/P2_FIX_REPORT.md": {
+    "mtime": 1788262219.08539,
+    "seen": 1792598503.0525124,
+    "ast_hash": "ce6525415f094f48cc3752e42a588c14",
+    "semantic_hash": ""
+  },
+  "qa/reports/POST_DEPLOYMENT_SMOKE_TEST_REPORT.md": {
+    "mtime": 1788272570.3197117,
+    "seen": 1792598503.0525181,
+    "ast_hash": "68f9b0a8595c07246f0f0442f0bb63c7",
+    "semantic_hash": ""
+  },
+  "qa/reports/PRODUCTION_DEPLOYMENT_CHECKLIST.md": {
+    "mtime": 1788271939.687467,
+    "seen": 1792598503.052524,
+    "ast_hash": "252a9c1250da8772970d71b15062bdc6",
+    "semantic_hash": ""
+  },
+  "qa/reports/PRODUCTION_DEPLOYMENT_VERIFICATION.md": {
+    "mtime": 1788273753.3333468,
+    "seen": 1792598503.0525293,
+    "ast_hash": "29446b5976ad03f0da849187d1ef4ac5",
+    "semantic_hash": ""
+  },
+  "qa/reports/PRODUCTION_SMOKE_TEST.md": {
+    "mtime": 1788265433.0588038,
+    "seen": 1792598503.0525348,
+    "ast_hash": "73899133cfef9ee073f801f952a8a2e7",
+    "semantic_hash": ""
+  },
+  "qa/reports/RELEASE_BLOCKER_FIX_REPORT.md": {
+    "mtime": 1788270353.9639919,
+    "seen": 1792598503.0525403,
+    "ast_hash": "6eeb6b42c426e96bf34a4bb19f511e3f",
+    "semantic_hash": ""
+  },
+  "qa/reports/RELEASE_BLOCKER_VERIFICATION.md": {
+    "mtime": 1788271053.3417869,
+    "seen": 1792598503.0525463,
+    "ast_hash": "bb1e5b868078392251aff263a8187be1",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/index.html": {
+    "mtime": 1786875352.0,
+    "seen": 1792598503.052552,
+    "ast_hash": "e49902fe8994e411c87042db89fbddc5",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_001/1787222933443-45676886-Invoice_Imtiaz_Sarwar_20260819.pdf": {
+    "mtime": 1787222933.6037576,
+    "seen": 1792598503.0525572,
+    "ast_hash": "18c1490035978b4daaed20858fed2230",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787668108264/1787668108374-628786639-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787668108.3810568,
+    "seen": 1792598503.0525632,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787668108264/1787669058105-855748306-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787669058.2390633,
+    "seen": 1792598503.0525692,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787668108264/1787669657645-369055837-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787669657.6518455,
+    "seen": 1792598503.0525746,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787674168563/1787677822477-484420799-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787677822.4888504,
+    "seen": 1792598503.0525804,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787678169333/1787678209983-88493388-Registration Form4130298728315.pdf": {
+    "mtime": 1787678209.9897957,
+    "seen": 1792598503.052586,
+    "ast_hash": "6f53066427f837b5ebffa57cecdcd8d9",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787952303784/1788697562299-939250345-114(1) (Return of Income filed voluntarily for complete year)_2025 (1).pdf": {
+    "mtime": 1788697562.3530705,
+    "seen": 1792598503.0525923,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_001/1787222933443-45676886-Invoice_Imtiaz_Sarwar_20260819.pdf": {
+    "mtime": 1787222932.0,
+    "seen": 1792598503.052598,
+    "ast_hash": "18c1490035978b4daaed20858fed2230",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787668108264/1787668108374-628786639-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787668108.0,
+    "seen": 1792598503.052604,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787668108264/1787669058105-855748306-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787669058.0,
+    "seen": 1792598503.0526094,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787668108264/1787669657645-369055837-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787669656.0,
+    "seen": 1792598503.0526154,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787674168563/1787677822477-484420799-114(1) (Return of Income filed voluntarily for complete year)_2025.pdf": {
+    "mtime": 1787677822.0,
+    "seen": 1792598503.052621,
+    "ast_hash": "14eaa2ed7e233eb3b5bd3a66d128fc63",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787678169333/1787678209983-88493388-Registration Form4130298728315.pdf": {
+    "mtime": 1787678208.0,
+    "seen": 1792598503.0526266,
+    "ast_hash": "6f53066427f837b5ebffa57cecdcd8d9",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/company/logo.jpeg": {
+    "mtime": 1788697835.8573053,
+    "seen": 1792598503.0526326,
+    "ast_hash": "d6f86a1347ce482b7a5b782dc9edba1e",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/company/logo.png": {
+    "mtime": 1787664852.36157,
+    "seen": 1792598503.0526383,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787674168563/1787674168675-846817295-business.logo.png": {
+    "mtime": 1787674168.6772175,
+    "seen": 1792598503.0526438,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/documents/emp_1787678169333/1787678169378-721725614-ChatGPT Image Aug 6, 2026, 04_32_08 PM.png": {
+    "mtime": 1787678169.426382,
+    "seen": 1792598503.0526495,
+    "ast_hash": "53c3c72cf47ea3f82a6f21c0a52ae6b0",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_001_1787496477768.png": {
+    "mtime": 1787496477.7715263,
+    "seen": 1792598503.0526552,
+    "ast_hash": "f9ca235b5e887fd2bb99d2aaaafe80f4",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787668108264_1787668108354.png": {
+    "mtime": 1787668108.3645997,
+    "seen": 1792598503.0526612,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787674168563_1787674274413.png": {
+    "mtime": 1787674274.4152942,
+    "seen": 1792598503.0526674,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787678169333_1787678169347.jpeg": {
+    "mtime": 1787678169.356597,
+    "seen": 1792598503.052673,
+    "ast_hash": "18776ed01abeb4dfb56f6b3ad5a4ce4a",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787678169333_1787678185528.jpeg": {
+    "mtime": 1787678185.6547096,
+    "seen": 1792598503.0526783,
+    "ast_hash": "18776ed01abeb4dfb56f6b3ad5a4ce4a",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787678169333_1787678209948.jpeg": {
+    "mtime": 1787678209.9616485,
+    "seen": 1792598503.0526843,
+    "ast_hash": "f03ee2cac945075d1f660bc74e1aee07",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787952303784_1788697562260.jpg": {
+    "mtime": 1788697562.2653933,
+    "seen": 1792598503.0526903,
+    "ast_hash": "4da05e219bb922c0207dc091d1a617db",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1788778300128_1788778328805.png": {
+    "mtime": 1788778328.905398,
+    "seen": 1792598503.0526958,
+    "ast_hash": "793258b8ab7ebb80fe1424d1492f84f8",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1787678584610_1787678600283.png": {
+    "mtime": 1787678600.2860746,
+    "seen": 1792598503.0527017,
+    "ast_hash": "134f251ad379d4a4ee820b3bbc8b4b7f",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787496511508.png": {
+    "mtime": 1787496511.56357,
+    "seen": 1792598503.0527077,
+    "ast_hash": "f9ca235b5e887fd2bb99d2aaaafe80f4",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787668144812.png": {
+    "mtime": 1787668144.8979704,
+    "seen": 1792598503.0527139,
+    "ast_hash": "134f251ad379d4a4ee820b3bbc8b4b7f",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787674077232.png": {
+    "mtime": 1787674077.237357,
+    "seen": 1792598503.0527198,
+    "ast_hash": "c087d7cb2d71e340d6946961671bea68",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787674260765.png": {
+    "mtime": 1787674260.775762,
+    "seen": 1792598503.0527258,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1788697856088.png": {
+    "mtime": 1788697856.0921464,
+    "seen": 1792598503.0527313,
+    "ast_hash": "d9ec2cb939844f267eb1cb00aa4a2690",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/company/logo.png": {
+    "mtime": 1787664852.0,
+    "seen": 1792598503.0527375,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787674168563/1787674168675-846817295-business.logo.png": {
+    "mtime": 1787674168.0,
+    "seen": 1792598503.0527437,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/documents/emp_1787678169333/1787678169378-721725614-ChatGPT Image Aug 6, 2026, 04_32_08 PM.png": {
+    "mtime": 1787678168.0,
+    "seen": 1792598503.0527496,
+    "ast_hash": "53c3c72cf47ea3f82a6f21c0a52ae6b0",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_001_1787496477768.png": {
+    "mtime": 1787496476.0,
+    "seen": 1792598503.0527556,
+    "ast_hash": "f9ca235b5e887fd2bb99d2aaaafe80f4",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787668108264_1787668108354.png": {
+    "mtime": 1787668108.0,
+    "seen": 1792598503.0527618,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787674168563_1787674274413.png": {
+    "mtime": 1787674274.0,
+    "seen": 1792598503.0527678,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787678169333_1787678169347.jpeg": {
+    "mtime": 1787678168.0,
+    "seen": 1792598503.0527735,
+    "ast_hash": "18776ed01abeb4dfb56f6b3ad5a4ce4a",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787678169333_1787678185528.jpeg": {
+    "mtime": 1787678184.0,
+    "seen": 1792598503.052779,
+    "ast_hash": "18776ed01abeb4dfb56f6b3ad5a4ce4a",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/emp_1787678169333_1787678209948.jpeg": {
+    "mtime": 1787678208.0,
+    "seen": 1792598503.0527847,
+    "ast_hash": "f03ee2cac945075d1f660bc74e1aee07",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1787678584610_1787678600283.png": {
+    "mtime": 1787678600.0,
+    "seen": 1792598503.052798,
+    "ast_hash": "134f251ad379d4a4ee820b3bbc8b4b7f",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787496511508.png": {
+    "mtime": 1787496510.0,
+    "seen": 1792598503.0528038,
+    "ast_hash": "f9ca235b5e887fd2bb99d2aaaafe80f4",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787668144812.png": {
+    "mtime": 1787668144.0,
+    "seen": 1792598503.05281,
+    "ast_hash": "134f251ad379d4a4ee820b3bbc8b4b7f",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787674077232.png": {
+    "mtime": 1787674076.0,
+    "seen": 1792598503.0528157,
+    "ast_hash": "c087d7cb2d71e340d6946961671bea68",
+    "semantic_hash": ""
+  },
+  "temp_zip_extract/mohsin-&-co-payroll-&-attendance/data/profile_pictures/usr_1_1787674260765.png": {
+    "mtime": 1787674260.0,
+    "seen": 1792598503.0528214,
+    "ast_hash": "58a0b60a0e0be8226cfa5fee52078e34",
+    "semantic_hash": ""
+  },
+  "graphify.ps1": {
+    "mtime": 1792598537.7544212,
+    "seen": 1792598596.4491358,
+    "ast_hash": "3030c6b62eb19457d12a866e9ec6406c",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1792598552.4143302,
+    "seen": 1792598596.4493568,
+    "ast_hash": "e867c91a44eb6fea41fab265229f1dfe",
+    "semantic_hash": ""
+  }
+}
